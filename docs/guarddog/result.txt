@@ -1,0 +1,12 @@
+Package json not on PyPI
+Scanning using at most 2 parallel worker threads
+Found 0 potentially malicious indicators scanning beautifulsoup4 version 4.9.0
+
+Found 0 potentially malicious indicators scanning requests version 2.23.0
+
+Found 0 potentially malicious indicators scanning urllib3 version 1.25.8
+
+Found 1 potentially malicious indicators in pandas version 1.2.4
+
+repository_integrity_mismatch: Some files present in the package are different from the ones on GitHub for the same version of the package:
+* pandas/_version.py
