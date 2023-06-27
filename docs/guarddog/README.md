@@ -11,8 +11,10 @@ Key Features:
 
 The following testing environment was used:
 
-- Operating System: Debian GNU/Linux 10 (buster)
-- Docker Version: 24.0.2 (installation instructions: [Docker Installation Guide](https://docs.docker.com/engine/install/debian/))
+| **Type**                                                 | **Version**                  |
+|----------------------------------------------------------|------------------------------|
+| Operating System                                         | Debian GNU/Linux 10 (buster) |
+| [Docker](https://docs.docker.com/engine/install/debian/) |                       24.0.2 |
 
 ## Installation and Analysis Steps
 
