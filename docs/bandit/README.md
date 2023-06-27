@@ -1,4 +1,4 @@
-# Bandit Guide
+# [Bandit](https://github.com/PyCQA/bandit) Guide
 
 Bandit is a powerful tool used for code analysis to identify weak lines of code that may pose security concerns. It is particularly useful for detecting potential vulnerabilities rather than analyzing malicious code. Bandit is the most popular tool of its kind and can be integrated into a continuous integration (CI) tool.
 
