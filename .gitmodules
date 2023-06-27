@@ -1,0 +1,3 @@
+[submodule "codebase/Senginta.py"]
+	path = codebase/Senginta.py
+	url = git@github.com:michael-act/Senginta.py
